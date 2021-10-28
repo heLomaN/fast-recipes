@@ -33,4 +33,4 @@ public:
 
 private:
     std::vector<Component*> children_;
-}
+};
